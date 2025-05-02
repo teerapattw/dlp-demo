@@ -1,0 +1,5 @@
+    git config --global pack.window 0
+    git config --global core.bigFileThreshold 1
+    git config --global core.compression 0
+    git config --global core.looseCompression 0
+    git config --global pack.compression 0
